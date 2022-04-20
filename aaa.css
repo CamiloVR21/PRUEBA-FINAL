@@ -1,0 +1,66 @@
+/*uso de id*/
+
+
+#formato1{
+    color: brown;
+    text-align: center;
+    font-size: 30px;
+    column-count: 5;
+
+}
+#columnas{
+    color: crimson;
+    column-count: 4;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    
+}
+
+#formato2{
+    border: solid 20px;
+    padding: 100px;
+    border-radius: 100px;
+}
+
+/* uso de class*/
+
+.titulo1{
+    font-size: 35; /*tamaño de letra*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+.titulo2{
+    color: chocolate;
+}
+.bordes{
+    padding:  100px;
+    border: 0;
+    margin: 0;
+    background: rgb(255, 81, 0);
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    column-count: 2;
+    text-align: justify;
+
+}
+h1{
+    background: blue;
+    color: white;
+    padding: 40px;
+    border: 6px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    
+}
+h2{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.fuente{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color:#ffffff ;
+}

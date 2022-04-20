@@ -7,6 +7,14 @@ h2{
     
     
 }
+
+h3{
+    background: rgb(228, 11, 11);
+    color: rgb(3, 3, 3);
+    padding: 20px;
+    border: solid 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 body {
     background-image: url(Img/fondo1.jpg);
     background-position: center center;	  
@@ -56,4 +64,5 @@ a{
     border-radius: 1px;
     border-style: groove;
 }
+
 
